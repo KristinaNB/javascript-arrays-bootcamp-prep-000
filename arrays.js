@@ -1,2 +1,1 @@
-var ingredient1 = "bread"
-var ingredient2 = "mild cheese"
+var  chocolateBars = ["snickers", "hundred grand", ]
